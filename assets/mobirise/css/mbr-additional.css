@@ -781,6 +781,29 @@ section.lazy-placeholder:after {
 .cid-rWTVfyRV8G .mbr-text DIV {
   text-align: center;
 }
+.cid-rYzBP3fjLo {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #c4bc3b;
+}
+.cid-rYzBP3fjLo .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rYzBP3fjLo .section-text {
+  padding: 2rem 0;
+}
+.cid-rYzBP3fjLo .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rYzBP3fjLo .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rWTVNsBjAI {
   padding-top: 90px;
   padding-bottom: 15px;
